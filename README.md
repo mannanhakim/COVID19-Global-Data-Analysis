@@ -118,9 +118,9 @@ Scatter Charts, Map Visuals, Slicers, KPI Cards
 
 ## Project Files
 
-- `COVID19_Analysis.pdf` — 4-page Power BI dashboard
-- `COVID_Project_Brief.docx` — project brief and analysis plan
-- `COVID_Analysis_Report.docx` — full findings report with charts
+- `COVID19_Analysis.pdf`: 4-page Power BI dashboard
+- `COVID_Project_Brief.docx`: project brief and analysis plan
+- `COVID_Analysis_Report.docx`: full findings report with charts
 
 ---
 
