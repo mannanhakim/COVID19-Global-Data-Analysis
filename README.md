@@ -9,16 +9,16 @@ government response and demographic risk factors.
 ## Dashboard Preview
 
 ### Cases & Deaths Overview
-![Cases & Deaths](images/page1_cases_deaths.png)
+![Cases & Deaths](page1_cases_deaths.png)
 
 ### Vaccination Progress
-![Vaccination](images/page2_vaccination.png)
+![Vaccination](page2_vaccination.png)
 
 ### Risk & Demographics Analysis
-![Demographics](images/page3_demographics.png)
+![Demographics](page3_demographics.png)
 
 ### Deaths: Volume vs Severity
-![Volume vs Severity](images/page4_volume_severity.png)
+![Volume vs Severity](page4_volume_severity.png)
 
 ---
 
@@ -118,9 +118,9 @@ Scatter Charts, Map Visuals, Slicers, KPI Cards
 
 ## Project Files
 
-- `dashboard/COVID19_Analysis.pdf` — 4-page Power BI dashboard
-- `docs/COVID_Project_Brief.docx` — project brief and analysis plan
-- `docs/COVID_Analysis_Report.docx` — full findings report with charts
+- `COVID19_Analysis.pdf` — 4-page Power BI dashboard
+- `COVID_Project_Brief.docx` — project brief and analysis plan
+- `COVID_Analysis_Report.docx` — full findings report with charts
 
 ---
 
