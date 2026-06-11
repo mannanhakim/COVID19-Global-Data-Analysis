@@ -1,7 +1,7 @@
 # COVID-19 Global Data Analysis
 
 An end-to-end data analysis project exploring global COVID-19 patterns across 
-262 countries using SQL and Power BI — covering cases, deaths, vaccinations, 
+262 countries using SQL and Power BI covering cases, deaths, vaccinations, 
 government response and demographic risk factors.
 
 ---
@@ -70,14 +70,14 @@ government response and demographic risk factors.
 ## Key Insights
 
 - Global death rate: **0.91%** across 779M confirmed cases
-- **United States** recorded the most deaths (1.24M) — but **Peru** had 
+- **United States** recorded the most deaths (1.24M) but **Peru** had 
   the highest death rate (4.88%)
-- Why? The US ran mass testing — millions of mild cases kept the rate low. 
-  Peru only tested the critically ill — making the rate artificially high.
+- Why? The US ran mass testing, millions of mild cases kept the rate low. 
+  Peru only tested the critically ill - making the rate artificially high.
   Same virus. Very different numbers. Context changes everything.
 - **Europe** was hit hardest by total deaths (2.11M)
 - **13.72 billion** vaccine doses administered globally — 65% vaccination rate
-- **Asia** administered the most doses (9.18bn) — led by China
+- **Asia** administered the most doses (9.18bn), led by China
 - Countries with higher testing rates consistently had lower death rates
 - Timing of lockdowns mattered more than their strictness
 
@@ -85,9 +85,9 @@ government response and demographic risk factors.
 
 ## Tools & Technologies Used
 
-- **SQL (SQLite / DB Browser)** — data cleaning, EDA, survival analysis
-- **Power BI** — DAX measures, 4-page interactive dashboard
-- **Python** — data preprocessing and CSV formatting
+- **SQL (SQLite / DB Browser)**: data cleaning, EDA, survival analysis
+- **Power BI**: DAX measures, 4-page interactive dashboard
+- **Python**: data preprocessing and CSV formatting
 
 ---
 
@@ -112,7 +112,7 @@ Scatter Charts, Map Visuals, Slicers, KPI Cards
 - **Source:** Our World in Data
 - **Link:** https://ourworldindata.org/covid-deaths
 - **Rows:** 589,779 | **Countries:** 262 | **Columns:** 20
-- Not included in repo due to file size — download from link above
+- Not included in repo due to file size, download from link above
 
 ---
 
