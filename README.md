@@ -87,7 +87,6 @@ government response and demographic risk factors.
 
 - **SQL (SQLite / DB Browser)**: data cleaning, EDA, survival analysis
 - **Power BI**: DAX measures, 4-page interactive dashboard
-- **Python**: data preprocessing and CSV formatting
 
 ---
 
